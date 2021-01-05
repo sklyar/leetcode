@@ -8,6 +8,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Go](./algorithms/go/running_sum_of_1d_array/running_sum_of_1d_array.go)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](./algorithms/go/reverse_string/reverse_string.go)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Go](./algorithms/go/invert_binary_tree/invert_binary_tree.go)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](./algorithms/go/contains_duplicate/contains_duplicate.go)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Go](./algorithms/go/reverse_linked_list/reverse_linked_list.go)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Go](./algorithms/go/single_number/single_number.go)|Easy|

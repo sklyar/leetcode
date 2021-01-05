@@ -1,4 +1,4 @@
-package _go
+package running_sum_of_1d_array
 
 func runningSum(nums []int) []int {
 	if len(nums) == 0 {

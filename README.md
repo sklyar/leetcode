@@ -13,6 +13,7 @@ LeetCode
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Go](./algorithms/go/invert_binary_tree/invert_binary_tree.go)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](./algorithms/go/contains_duplicate/contains_duplicate.go)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Go](./algorithms/go/reverse_linked_list/reverse_linked_list.go)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Go](./algorithms/go/remove_linked_list_elements/remove_linked_list_elements.go)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Go](./algorithms/go/single_number/single_number.go)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go](./algorithms/go/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.go)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](./algorithms/go/maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.go)|Easy|

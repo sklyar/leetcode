@@ -7,6 +7,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Go](./algorithms/go/running_sum_of_1d_array/running_sum_of_1d_array.go)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Go](./algorithms/go/merge_two_binary_trees/merge_two_binary_trees.go)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](./algorithms/go/reverse_string/reverse_string.go)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Go](./algorithms/go/invert_binary_tree/invert_binary_tree.go)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](./algorithms/go/contains_duplicate/contains_duplicate.go)|Easy|

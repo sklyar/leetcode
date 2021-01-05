@@ -16,3 +16,4 @@ LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go](./algorithms/go/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.go)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](./algorithms/go/maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.go)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./algorithms/go/remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.go)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Go](./algorithms/go/two_sum/two_sum.go)|Easy|

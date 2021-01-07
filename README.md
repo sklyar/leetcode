@@ -9,6 +9,7 @@ LeetCode
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Go](./algorithms/go/running_sum_of_1d_array/running_sum_of_1d_array.go)|Easy|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Go](./algorithms/go/maximum_69_number/maximum_69_number.go)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Go](./algorithms/go/merge_two_binary_trees/merge_two_binary_trees.go)|Easy|
+|468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Go](./algorithms/go/validate_ip_address/validate_ip_address.go)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Go](./algorithms/go/top_k_frequent_elements/top_k_frequent_elements.go)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](./algorithms/go/reverse_string/reverse_string.go)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Go](./algorithms/go/invert_binary_tree/invert_binary_tree.go)|Easy|

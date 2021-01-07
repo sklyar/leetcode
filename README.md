@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Go](./algorithms/go/richest_customer_wealth/richest_customer_wealth.go)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Go](./algorithms/go/running_sum_of_1d_array/running_sum_of_1d_array.go)|Easy|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Go](./algorithms/go/maximum_69_number/maximum_69_number.go)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Go](./algorithms/go/merge_two_binary_trees/merge_two_binary_trees.go)|Easy|

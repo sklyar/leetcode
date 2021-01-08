@@ -15,6 +15,7 @@ LeetCode
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Go](./algorithms/go/validate_ip_address/validate_ip_address.go)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Go](./algorithms/go/top_k_frequent_elements/top_k_frequent_elements.go)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](./algorithms/go/reverse_string/reverse_string.go)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Go](./algorithms/go/delete_node_in_a_linked_list/delete_node_in_a_linked_list.go)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Go](./algorithms/go/invert_binary_tree/invert_binary_tree.go)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](./algorithms/go/contains_duplicate/contains_duplicate.go)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Go](./algorithms/go/reverse_linked_list/reverse_linked_list.go)|Easy|

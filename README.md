@@ -13,6 +13,7 @@ LeetCode
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Go](./algorithms/go/defanging_an_ip_address/defanging_an_ip_address.go)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Go](./algorithms/go/merge_two_binary_trees/merge_two_binary_trees.go)|Easy|
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Go](./algorithms/go/validate_ip_address/validate_ip_address.go)|Medium|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Go](./algorithms/go/fizz_buzz/fizz_buzz.go)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Go](./algorithms/go/top_k_frequent_elements/top_k_frequent_elements.go)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](./algorithms/go/reverse_string/reverse_string.go)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Go](./algorithms/go/delete_node_in_a_linked_list/delete_node_in_a_linked_list.go)|Easy|

@@ -6,6 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Go](./algorithms/go/goal-parser-interpretation/goal-parser-interpretation.go)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Go](./algorithms/go/richest_customer_wealth/richest_customer_wealth.go)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Go](./algorithms/go/running_sum_of_1d_array/running_sum_of_1d_array.go)|Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Go](./algorithms/go/shuffle_the_array/shuffle_the_array.go)|Easy|

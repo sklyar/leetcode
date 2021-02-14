@@ -27,6 +27,7 @@ LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go](./algorithms/go/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.go)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Go (a)](./algorithms/go/convert_sorted_array_to_binary_search_tree/a/convert_sorted_array_to_binary_search_tree.go) [Go (b)](./algorithms/go/convert_sorted_array_to_binary_search_tree/b/convert_sorted_array_to_binary_search_tree.go)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](./algorithms/go/maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.go)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [Go](./algorithms/go/plus_one/plus_one.go)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Go](./algorithms/go/maximum_subarray/maximum_subarray.go)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Go](./algorithms/go/implement_strstr/implement_strstr.go)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./algorithms/go/remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.go)|Easy|

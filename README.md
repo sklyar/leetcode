@@ -24,6 +24,7 @@ LeetCode
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Go](./algorithms/go/remove_linked_list_elements/remove_linked_list_elements.go)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Go](./algorithms/go/majority_element/majority_element.go)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Go](./algorithms/go/single_number/single_number.go)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](./algorithms/go/valid_palindrome/valid_palindrome.go)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go](./algorithms/go/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.go)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Go (a)](./algorithms/go/convert_sorted_array_to_binary_search_tree/a/convert_sorted_array_to_binary_search_tree.go) [Go (b)](./algorithms/go/convert_sorted_array_to_binary_search_tree/b/convert_sorted_array_to_binary_search_tree.go)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Go](./algorithms/go/maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.go)|Easy|
